@@ -1,0 +1,14 @@
+﻿body {
+}
+
+#resultCalc {
+    border: 10px black;
+    width: 500px;
+    height: 25px;
+}
+
+#currentCalc {
+    border: 10px black;
+    width: 500px;
+    height: 25px;
+}
